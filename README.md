@@ -1,6 +1,6 @@
 # Lorenzo Nastri 🚀
 
-<h5 I am a computer programmer specialized in decentralized applications, also known as dApps, and smart contracts. For the development of dApps I use Javascript, React and Next.js; and for smart contracts I use Solidity and Hardhat. At college I learned how to use Python and it's library Pandas, so I am also familiarized with both of them. h5>
+<h5 I am a computer programmer specialized in decentralized applications, also known as dApps, and smart contracts. For the development of dApps I use Javascript, React and Next.js; and for smart contracts I use Solidity and Hardhat. At college I learned how to use Python and it's library Pandas, so I am also familiarized with both of them. </h5>
 
 - 🌱 I’m currently learning **Solidity**
 
