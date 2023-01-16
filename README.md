@@ -1,10 +1,10 @@
 # Lorenzo Nastri 🚀
 
-<h5 align="left">I am a computer programmer specialized in decentralized applications, also known as dApps, and smart contracts. For the development of dApps I use Javascript, React and Next.js; and for smart contracts I use Solidity and Hardhat. At college I learned how to use Python and it's library Pandas, so I am also familiarized with both of them.</h5>
+<h4 align="left">I am a computer programmer specialized in decentralized applications, also known as dApps, and smart contracts. For the development of dApps I use Javascript, React and Next.js; and for smart contracts I use Solidity and Hardhat. At college I learned how to use Python and it's library Pandas, so I am also familiarized with both of them.</h4>
 
 - 📫 How to reach me **lorenzonastri@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h5 align="left">Connect with me:</h5>
 <p align="left">
 <a href="https://linkedin.com/in/lorenzo-nastri-5b288524a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lorenzo-nastri-5b288524a" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20897795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20897795" height="30" width="40" /></a>
