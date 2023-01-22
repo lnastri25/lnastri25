@@ -18,10 +18,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lnastri25&show_icons=true&locale=en&layout=compact&theme=algolia" alt="lnastri25" /></p>
 
-&nbsp;
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=lnastri25&show_icons=true&locale=en&theme=algolia" alt="lnastri25" /></p>
 
+<p> </p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=lnastri25&&theme=algolia" alt="lnastri25" /></p>
 
