@@ -19,7 +19,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lnastri25&show_icons=true&locale=en&layout=compact&theme=algolia" alt="lnastri25" /></p>
 
 
-<p><img align="left" src="[https://github-readme-stats.vercel.app/api?username=lnastri25&show_icons=true&locale=en&theme=algolia](https://github-readme-stats.vercel.app/api?username=lnastri25&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true )" alt="lnastri25" /></p>
+<p><img align="left" src="(https://github-readme-stats.vercel.app/api?username=lnastri25&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lnastri25" /></p>
 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=lnastri25&&theme=algolia" alt="lnastri25" /></p>
