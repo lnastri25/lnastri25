@@ -21,5 +21,5 @@
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lnastri25&show_icons=true&locale=en&theme=algolia" alt="lnastri25" /></p>
 
-<p><img align="left" src="https://camo.githubusercontent.com/5741542b032ceed26a14c8db72f5c5cf74d73a2505f763cee4a77770b6f17220/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d73696d706c797361626972267468656d653d7675652367682d6c696768742d6d6f64652d6f6e6c79/?user=lnastri25&&theme=algolia " alt="lnastri25" /></p>
+<p><img align="left" src="https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=lnastri25&&theme=algolia" alt="lnastri25" /></p>
 
