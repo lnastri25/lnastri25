@@ -11,7 +11,6 @@
 <a href="https://linkedin.com/in/lorenzo-nastri-5b288524a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lorenzo-nastri-5b288524a" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20897795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20897795" height="30" width="40" /></a>
 <a href="https://discord.gg/#1808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1808" height="30" width="40" /></a>
-<a href="https://github.com/lnastri25" data-color-scheme="no-preference: dark_high_contrast; light: light_high_contrast; dark: dark_high_contrast;" data-size="large" data-show-count="true" aria-label="Follow @lnastri25 on GitHub">Follow @lnastri25</a> 
 </p>
 
 ## Languages and Tools
