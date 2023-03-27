@@ -23,8 +23,3 @@
 
 <p><img align="left" src="https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=lnastri25&&theme=algolia" alt="lnastri25" /></p>
 
-
-<p align="left"> 
-  <a href="https://github.com/lnastri25?tab=repositories#gh-light-mode-only">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/simplysabir?color=3ea97d&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/> </a>
-
