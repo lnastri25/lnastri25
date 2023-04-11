@@ -1,6 +1,6 @@
 # Lorenzo Nastri 🚀
 
-<h4 align="left">I am a computer programmer specialized in decentralized applications, also known as dApps, and smart contracts. For the development of dApps I use Javascript, React and Next.js; and for smart contracts I use Solidity and Hardhat. At college I learned how to use Python and it's library Pandas, so I am also familiarized with both of them.</h4>
+<h4 align="left">I am a computer programmer specialized in decentralized applications, also known as dApps, and smart contracts. For the development of dApps I use Javascript, React and Next.js; and for smart contracts I use Solidity and Hardhat. At college, I learned how to use Python and it's library Pandas, so I am also familiarized with both of them.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lnastri25&label=Profile%20views&color=0e75b6&style=flat" alt="lnastri25" /> </p>
 
