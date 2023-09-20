@@ -13,7 +13,7 @@
 <a href="https://discord.gg/lolonastri#1808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lolonastri#1808" height="30" width="40" /></a>
 </p>
 
-
+---
 
 
 ## Languages and Tools
