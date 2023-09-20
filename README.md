@@ -27,3 +27,41 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=lnastri25&&theme=algolia" alt="lnastri25" /></p>
 
+
+<br />
+<h2>Languages and Tools</h2> 
+<p align="left">
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=js"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=html"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=css"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=bootstrap"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=c"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=cpp"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=express"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=nest"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=figma"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=git"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=github"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=java"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=mongodb"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=linux"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=nextjs"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=react"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=solidity"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=tailwind"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=vscode"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=bash"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=firebase"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=jest"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=md"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=nodejs"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=postman"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=prisma"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=redux"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=rust"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=sass"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=ts"  />
+
+</p>
+<br />
+
