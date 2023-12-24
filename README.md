@@ -7,7 +7,7 @@
 <h4 align="left"> Completed Web3 related online courses in developing decentralized applications (dApps) and smart contracts. When it comes to dApp development, I use JavaScript, React, and Next.js, while for smart contracts, I rely on Solidity and Hardhat.</h4>
 
 
-<h5 align="left"> Feel free to explore my repositories to witness my substantial experience in Python, dApps & smart contracts.</h5>
+<h6 align="left"> Feel free to explore my repositories to witness my substantial experience in Python, dApps & smart contracts.</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lnastri25&label=Profile%20views&color=0e75b6&style=flat" alt="lnastri25" /> </p>
 
