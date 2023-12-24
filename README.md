@@ -1,4 +1,4 @@
-# Lorenzo Nastri 🚀
+# Lorenzo Nastri
 
 <h4 align="left"> Computer programmer specialized in data analysis. Proficiency in using Python and its libraries, including RE, Os, Sys, Glob, Numpy, Matplotlib, Pandas, Seaborn, and Scikit-learn. With expertise in these libraries, particularly the last ones, I have the capability to analyze databases comprehensively and based on that, I can develop machine learning models, including linear regressions (simple or multiple), logistic regressions, or decision trees, among some things.</h4>
 
@@ -12,7 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lnastri25&label=Profile%20views&color=0e75b6&style=flat" alt="lnastri25" /> </p>
 
 - How to reach me: **lorenzonastri@gmail.com**
-- Most recent project in Power BI: http://surl.li/oovtq
+- Most recent project in Power BI: **http://surl.li/oovtq**
 
 ## Connect With Me
 <p align="left">
