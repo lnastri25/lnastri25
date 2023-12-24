@@ -2,7 +2,7 @@
 
 <h4 align="left"> Computer programmer specialized in data analysis. Proficiency in using Python and its libraries, including RE, Os, Sys, Glob, Numpy, Matplotlib, Pandas, Seaborn, and Scikit-learn. With expertise in these libraries, particularly the last ones, I have the capability to analyze databases comprehensively and based on that, I can develop machine learning models, including linear regressions (simple or multiple), logistic regressions, or decision trees, among some things.</h4>
 
-<h4 align="left"> Solid base in Microsoft Excel and the ETL (Extract, Transform, Load) process, highlighting their significance. Extensive expertise in using Power BI, where I can create effective dashboards and efficiently manage and transform databases using Power Query and relate them with Power Pivot.</h4>
+<h4 align="left"> Solid base in Microsoft Excel and the ETL (Extract, Transform, Load) process, highlighting their significance. Extensive expertise in using Power BI, where I can create effective dashboards and efficiently manage and transform databases using Power Query and relate them with Power Pivot. <h6> hello</h6>  </h4>
   
 <h4 align="left"> Completed Web3 related online courses in developing decentralized applications (dApps) and smart contracts. When it comes to dApp development, I use JavaScript, React, and Next.js, while for smart contracts, I rely on Solidity and Hardhat.</h4>
 
