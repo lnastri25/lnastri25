@@ -1,6 +1,12 @@
 # Lorenzo Nastri 🚀
 
-<h4 align="left">I am a computer programmer specialized in decentralized applications, also known as dApps, and smart contracts. For the development of dApps I use Javascript, React and Next.js; and for smart contracts I use Solidity and Hardhat. During my college experience, I developed skills in Python and its libraries, including RE, Os, Sys, Glob, and Pandas, thereby familiarizing myself with them. Additionally, I have acquired a solid base and experience in Microsoft Excel (ETL), empowering me to solve problems and analyze data quickly and effectively. As a result of this comprehensive training along my career, I am capable of using these tools efficiently to tackle complex challenges.</h4>
+<h4 align="left"> I am a computer programmer specialized in data analysis. I have acquired proficiency in using Python and its libraries, including RE, Os, Sys, Glob, Numpy, Matplotlib, Pandas, Seaborn, and Scikit-learn. With expertise in these libraries, particularly the last ones, I have the capability to analyze databases comprehensively and based on these analyses, I can develop machine learning models, including linear regressions (simple or multiple), logistic regressions, or decision trees, among some things.
+
+I also developed a solid base in Microsoft Excel and the ETL (Extract, Transform, Load) process, highlighting their significance. In addition, I have experience in using Power BI, where I can create effective dashboards and efficiently manage and transform databases using Power Query and relate them with Power Pivot.
+  
+I have completed Web3 related online courses in developing decentralized applications (dApps) and smart contracts. When it comes to dApp development, I use JavaScript, React, and Next.js, while for smart contracts, I rely on Solidity and Hardhat.
+
+</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lnastri25&label=Profile%20views&color=0e75b6&style=flat" alt="lnastri25" /> </p>
 
