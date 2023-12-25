@@ -10,7 +10,7 @@
 <h6 align="left"> Feel free to explore my repositories to witness my substantial experience in Python, dApps & smart contracts.</h6>
 
 - How to reach me: **lorenzonastri@gmail.com**
-- Most recent project in Power BI: **http://surl.li/oovtq**
+- Most recent project in Power BI: **http://surl.li/oovwx**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lnastri25&label=Profile%20views&color=0e75b6&style=flat" alt="lnastri25" /> </p>
 
