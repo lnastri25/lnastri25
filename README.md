@@ -33,6 +33,8 @@
     <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/0d4a88e311997c8f70d54be472b23860521d74b3/doc/logos/scikit-learn-logo-without-subtitle.svg" alt="scikit-learn" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/e5a85f960b2d47eac371cff709b830d52c36d267/lib/matplotlib/mpl-data/images/matplotlib.svg" alt="matplotlib" width="40" height="40"/>
     <img src="https://user-images.githubusercontent.com/104145773/171375260-c711bda4-ff6d-4693-9a91-b234744f13ad.svg" alt="seaborn" width="40" height="40"/>
+    <img width="40px" src="https://skillicons.dev/icons?i=mysql"/>
+    <img width="40px" src="https://skillicons.dev/icons?i=sqlite"/>
     <img width="40px" src="https://skillicons.dev/icons?i=js"/>
     <img width="40px" src="https://skillicons.dev/icons?i=git"/>
     <img width="40px" src="https://skillicons.dev/icons?i=nodejs"/>
