@@ -2,7 +2,7 @@
 
 <h4 align="left"> Solid base in Microsoft Excel and the ETL (Extract, Transform, Load) process, highlighting their significance. Extensive expertise in using Power BI, where I can create effective dashboards and efficiently manage and transform databases using Power Query and relate them with Power Pivot. </h4>
   
-<h4 align="left"> Additionally, I possess robust skills in SQL, adept in Data Manipulation Language (DML), Data Definition Language (DDL), JOINS, and advanced WINDOW FUNCTIONS, enabling sophisticated data querying and analysis.</h4>
+<h4 align="left"> Additionally, I possess robust skills in SQL, adept in Data Manipulation Language (DML), Data Definition Language (DDL), JOINS, and advanced WINDOW FUNCTIONS, enabling sophisticated data querying and analysis. I can also seamlessly integrate Python with SQL to work with real-time databases, enhancing data-driven decision-making and operational efficiency.</h4>
 
 
 <h6 align="left"> Feel free to explore my repositories to witness my substantial experience in Python, dApps & smart contracts.</h6>
