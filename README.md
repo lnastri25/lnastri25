@@ -1,13 +1,32 @@
-<h4 align="left"> Computer programmer specialized in data analysis. Proficiency in Python and its libraries, including RE, Os, Sys, Glob, Numpy, Matplotlib, Pandas, Seaborn, and Scikit-learn. With expertise in these libraries, particularly the latter ones, I can perform comprehensive data analysis and build machine learning models, such as linear and logistic regressions, decision trees, Random Forest, XGBoost, LightGBM, and Voting Classifiers. I also have experience in Natural Language Processing (NLP), Neural Networks, Anomaly Detection, and Unsupervised Learning techniques like K-Means, DBSCAN, and Hierarchical Clustering, as well as dimensionality reduction methods such as PCA, t-SNE, and UMAP.</h4>
+**Data Analyst | Business Intelligence | SQL • Python • Power BI • ETL Automation**
 
-<h4 align="left"> Skilled in SQL for data extraction and transformation, with strong command of Data Manipulation Language (DML), Data Definition Language (DDL), JOINS, and advanced WINDOW FUNCTIONS. I can also integrate Python with SQL for real-time database interactions, enhancing data-driven decision-making and operational efficiency.</h4>
-  
-<h4 align="left"> Experienced with Git and Git Bash for efficient version control and project collaboration. Strong foundation in Microsoft Excel and the ETL (Extract, Transform, Load) process. Proficient in Power BI for building interactive dashboards, transforming data with Power Query, and managing relationships with Power Pivot.</h4>
+I’m a Data Analyst focused on transforming operational and commercial data into high-impact business decisions.
 
-<h6 align="left"> Feel free to explore my repositories to witness my substantial experience in Python, dApps & smart contracts.</h6>
+I specialize in:
+- Designing automated ETL pipelines
+- Building scalable analytics workflows
+- Developing executive dashboards
+- Analyzing retention, revenue, and performance drivers
+- Improving data quality and operational efficiency
 
-- How to reach me: **lorenzonastri@gmail.com**
-- Most recent project in Power BI: **https://shorturl.at/XKr4B**
+I operate at the intersection of Data, Product, and Business Strategy.
+
+## 🛠 Tech Stack
+
+**Languages & Analytics**
+- Python (Pandas, NumPy, Scikit-learn, Matplotlib)
+- SQL (DML, DDL, JOINS, WINDOW FUNCTIONS)
+
+**BI & Data Tools**
+- Power BI (Power Query, Power Pivot)
+- Excel (Advanced modeling)
+- Google Cloud
+- ETL & Automation Workflows
+
+**Other**
+- Git / Git Bash
+- API Integrations
+- Data Quality Validation
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lnastri25&label=Profile%20views&color=0e75b6&style=flat" alt="lnastri25" /> </p>
 
@@ -34,17 +53,10 @@
     <img src="https://user-images.githubusercontent.com/104145773/171375260-c711bda4-ff6d-4693-9a91-b234744f13ad.svg" alt="seaborn" width="40" height="40"/>
     <img width="40px" src="https://skillicons.dev/icons?i=mysql"/>
     <img width="40px" src="https://skillicons.dev/icons?i=sqlite"/>
-    <img width="40px" src="https://skillicons.dev/icons?i=js"/>
     <img width="40px" src="https://skillicons.dev/icons?i=git"/>
-    <img width="40px" src="https://skillicons.dev/icons?i=nodejs"/>
     <img width="40px" src="https://skillicons.dev/icons?i=bash"/>
     <img width="40px" src="https://skillicons.dev/icons?i=vscode"/>
     <img width="40px" src="https://skillicons.dev/icons?i=github"/>
-    <img width="40px" src="https://skillicons.dev/icons?i=solidity"/>
-    <img width="40px" src="https://skillicons.dev/icons?i=nextjs"/>
-    <img width="40px" src="https://skillicons.dev/icons?i=react"/>
-    <img width="40px" src="https://skillicons.dev/icons?i=html"/>
-    <img width="40px" src="https://skillicons.dev/icons?i=css"/>
 </p>
 
 
