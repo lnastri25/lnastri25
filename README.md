@@ -11,7 +11,7 @@ I specialize in:
 
 I operate at the intersection of Data, Product, and Business Strategy.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lnastri25&label=Profile%20views&color=0e75b6&style=flat" alt="lnastri25" /> </p>
+
 
 ## Connect With Me
 <p align="left">
@@ -42,6 +42,8 @@ I operate at the intersection of Data, Product, and Business Strategy.
     <img width="40px" src="https://skillicons.dev/icons?i=azure"/>
     
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lnastri25&label=Profile%20views&color=0e75b6&style=flat" alt="lnastri25" /> </p>
 
 
 
