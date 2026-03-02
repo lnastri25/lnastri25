@@ -9,12 +9,6 @@ I specialize in:
 
 I operate at the intersection of Data, Product, and Business Strategy.
 
-## 🛠 Tech Stack
-
-**Languages & Analytics**
-- Python (Pandas, NumPy, Scikit-learn, Matplotlib)
-- SQL (DML, DDL, JOINS, WINDOW FUNCTIONS)
-
 **BI & Data Tools**
 - Power BI (Power Query, Power Pivot)
 - Excel (Advanced modeling)
@@ -40,7 +34,7 @@ I operate at the intersection of Data, Product, and Business Strategy.
 
 <br/>
 
-## Languages and Tools
+## 🛠 Tech Stack
 <p align="left"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
