@@ -1,5 +1,3 @@
-**Data Analyst | Business Intelligence | SQL • Python • Power BI • ETL Automation**
-
 I’m a Data Analyst focused on transforming operational and commercial data into high-impact business decisions.
 
 I specialize in:
