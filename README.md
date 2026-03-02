@@ -49,6 +49,9 @@ I operate at the intersection of Data, Product, and Business Strategy.
     <img width="40px" src="https://skillicons.dev/icons?i=bash"/>
     <img width="40px" src="https://skillicons.dev/icons?i=vscode"/>
     <img width="40px" src="https://skillicons.dev/icons?i=github"/>
+    <img width="40px" src="https://skillicons.dev/icons?i=gcp"/>
+    <img width="40px" src="https://skillicons.dev/icons?i=azure"/>
+    
 </p>
 
 
