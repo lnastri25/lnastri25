@@ -1,3 +1,5 @@
+**Data Analyst | Business Intelligence | SQL • Python • Power BI • ETL Automation**
+
 I’m a Data Analyst focused on transforming operational and commercial data into high-impact business decisions.
 
 I specialize in:
@@ -8,17 +10,6 @@ I specialize in:
 - Improving data quality and operational efficiency
 
 I operate at the intersection of Data, Product, and Business Strategy.
-
-**BI & Data Tools**
-- Power BI (Power Query, Power Pivot)
-- Excel (Advanced modeling)
-- Google Cloud
-- ETL & Automation Workflows
-
-**Other**
-- Git / Git Bash
-- API Integrations
-- Data Quality Validation
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lnastri25&label=Profile%20views&color=0e75b6&style=flat" alt="lnastri25" /> </p>
 
